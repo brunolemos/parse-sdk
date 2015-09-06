@@ -1,8 +1,8 @@
 # What is this?
-This [Meteor](http://meteor.com/)'s package is a simple wrapper to Facebook's [Parse Javascript SDK](https://parse.com/docs/js/guide)
+This [Meteor](http://meteor.com/)'s [package](https://atmospherejs.com/brunolemos/parse-sdk) is a simple wrapper to Facebook's [Parse Javascript SDK](https://parse.com/docs/js/guide)
 
 ##### What does it do?
-This package will simply add a global Parse object to your application.
+This package will simply add a global Parse object to your application and keep it updated.
 
 ##### What doesn't it do?
 It does not provide any deep integration with your collections.
@@ -27,8 +27,8 @@ meteor add brunolemos:parse-sdk
 You will have to follow the Parse's official javascript [guide](https://parse.com/docs/js/guide) / [examples](https://parse.com/tutorials#javascript) to see how to use it.
 
 ### Version
-The package version will follow the Parse Javacript SDK version.
+This package version will follow the Parse Javacript SDK one.
 
 #### New version?
 
-If you see this package is outdated, ping me on twitter at [@brunolemos](https://twitter.com/brunolemos) :)
+If you see that a newer version is available, ping me on twitter at [@brunolemos](https://twitter.com/brunolemos) :)
