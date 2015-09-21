@@ -27,7 +27,7 @@ meteor add brunolemos:parse-sdk
 You will have to follow the Parse's official javascript [guide](https://parse.com/docs/js/guide) / [examples](https://parse.com/tutorials#javascript) to see how to use it.
 
 ### Version
-This package version will follow the Parse Javacript SDK one.
+This package will follow the Parse Javacript SDK versioning.
 
 #### New version?
 
