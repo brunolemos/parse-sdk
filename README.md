@@ -1,4 +1,13 @@
-# What is this?
+# Parse SDK
+
+## Deprecation Notice
+Since Meteor 1.3, you don't need an atmosphere wrapper anymore.
+Use the [official npm package](https://github.com/ParsePlatform/Parse-SDK-JS) instead.
+````
+meteor npm install parse
+````
+
+## What is this?
 This [Meteor](http://meteor.com/)'s [package](https://atmospherejs.com/brunolemos/parse-sdk) is a simple wrapper to Facebook's [Parse Javascript SDK](https://parse.com/docs/js/guide)
 
 ##### What does it do?
@@ -7,7 +16,7 @@ This package will simply add a global Parse object to your application and keep 
 ##### What doesn't it do?
 It does not provide any deep integration with your collections.
 
-# Parse?
+## Parse?
 [Parse](https://parse.com/) is a cloud provided by Facebook to easily power cross-platform apps. It provides:
 
   - Database storage
