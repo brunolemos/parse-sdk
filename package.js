@@ -1,6 +1,6 @@
 Package.describe({
   name: 'brunolemos:parse-sdk',
-  version: '1.8.5',
+  version: '1.9.1',
   summary: 'Parse SDK for Meteor',
   git: 'https://github.com/brunolemos/parse-sdk.git',
   documentation: 'README.md'
